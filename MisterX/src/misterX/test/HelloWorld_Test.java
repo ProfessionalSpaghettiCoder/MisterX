@@ -7,7 +7,7 @@ public class HelloWorld_Test {
 	}
 	
 	public static void main(String[] args) {
-		HelloWorld_Test();
+		new HelloWorld_Test();
 	}
 	
 }
